@@ -524,7 +524,7 @@ body {
   /* justify-items: space-between; */
   align-items: center;
 
-  margin: 0 7rem;
+  /* margin: 0 7rem; */
   margin-bottom: 4.5rem;
 }
 .price-box {
@@ -534,6 +534,7 @@ body {
   justify-items: center;
   align-items: center;
   gap: 2.4rem;
+  max-width: 55rem;
 }
 .price-img-box {
   width: 26rem;

@@ -82,7 +82,7 @@
   }
 
   .price-container {
-    margin: 0 1.2rem;
+    /* margin: 0 1.2rem; */
     /* grid-template-columns: 1fr; */
     gap: 2.4rem;
     justify-content: center;
@@ -263,7 +263,7 @@
   }
 
   .price-container {
-    margin: 0 1.2rem;
+    /* margin: 0 1.2rem; */
     grid-template-columns: 1fr;
     /* grid-template-rows: aut; */
     gap: 2.4rem;
